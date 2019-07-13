@@ -1,3 +1,7 @@
+# React Facebook Login
+
+Created as a tutorial for using facebook and google login in your app.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
